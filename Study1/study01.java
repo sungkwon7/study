@@ -1,3 +1,6 @@
+
+/* 조성권 */ 
+
 package Study1;
 
 public class study01 {
