@@ -1,5 +1,9 @@
 package Study1;
 
+/*  조성권 
+ *  미니과제 : 주민등록번호 생성 프로그램
+ */
+
 import java.util.HashMap;
 import java.util.Random;
 import java.util.Scanner;
