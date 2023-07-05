@@ -8,10 +8,11 @@ import java.util.HashMap;
 import java.util.Random;
 import java.util.Scanner;
 
-public class study4 {
+public class study04 {
     public static void main(String[] args) {
-         Scanner scanner = new Scanner(System.in);
-        study4 main = new study4();
+        
+        Scanner scanner = new Scanner(System.in);
+        study04 main = new study04();
         HashMap<String, String> gu = new HashMap<>();
 
         Random random = new Random();
