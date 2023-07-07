@@ -1,5 +1,6 @@
 package Study1;
 // 조성권
+
 import java.util.Random;
 
 
