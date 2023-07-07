@@ -71,8 +71,7 @@ public class study07 {
         System.out.print("\t");
         for (int i = 0; i < Numbers.length; i++) {
             if (i != 0){
-                System.out.print(",");
-            }
+                System.out.print(",");            }
             System.out.print(Numbers[i]);
         }
     }
