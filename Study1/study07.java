@@ -21,8 +21,7 @@ public class study07 {
         List<int[]> numberList = new ArrayList<int[]>();
         int[] myNumber = new int [6];
 
-        char a = 'A';
-        for (int i = 0; i < num; i++) {
+        char a = 'A';        for (int i = 0; i < num; i++) {
             System.out.printf("%c", a);
             myNumber = new int[6];
             myNumber = make();
